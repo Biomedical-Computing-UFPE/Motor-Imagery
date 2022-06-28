@@ -1,0 +1,2 @@
+# Motor-Imagery
+This database consists of 21 EEG signal collections from a single healthy adult male. The collections were performed on alternate days and each one consists of 60 trials of 8 seconds. In each trial, in turn, the motor imagery of the right, left or feet is performed. EEG data were collected through the g.Hamp amplifier set to a sampling rate of 256 Hz. In addition, 27 active channels were distributed over the premotor, motor and sensoriomotor cortex.
